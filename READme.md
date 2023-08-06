@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Satvik and I'm a passionate student hailing from India. Currently in my second year, I am actively pursuing my academic journey while exploring the exciting world of technology.</p>
+<p align="left">My name is Satvik and I'm a passionate student from India. Currently in my second year, I am actively pursuing my academic journey while exploring the exciting world of technology.</p>
 
 ###
 
