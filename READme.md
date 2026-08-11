@@ -37,6 +37,7 @@ const satvik = {
 | Project | What it is | Stack |
 |:--------|:-----------|:------|
 | **[Queryn](https://github.com/satvikydv/queryn)** · [Live](https://queryn-gold.vercel.app) | AI-powered GitHub / code intelligence product | Next.js · tRPC · Prisma · AI SDK |
+| **[Pointr](https://github.com/satvikydv/pointr)** · [Live](https://pointr.duckdns.org) | Screen-aware AI desktop assistant | Tauri (Rust) · FastAPI · Gemini |
 | **[Ezply](https://github.com/satvikydv/ezply)** | Job application copilot — discover, rank, tailor, autofill | Python · FastAPI · SQLite |
 | **[InvoiceIQ](https://github.com/satvikydv/invoice-pipeline)** | AI invoice processing with vision, PO matching & risk scoring | React · FastAPI · Gemini |
 | **[Pic Bay](https://github.com/satvikydv/pic-bay)** · [Live](https://pic-bay.onrender.com) | Image commerce platform with payments | TypeScript · Razorpay |
