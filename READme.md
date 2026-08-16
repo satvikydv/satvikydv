@@ -41,7 +41,7 @@ const satvik = {
 | **[Ezply](https://github.com/satvikydv/ezply)** | Job application copilot — discover, rank, tailor, autofill | Python · FastAPI · SQLite |
 | **[InvoiceIQ](https://github.com/satvikydv/invoice-pipeline)** | AI invoice processing with vision, PO matching & risk scoring | React · FastAPI · Gemini |
 | **[Pic Bay](https://github.com/satvikydv/pic-bay)** · [Live](https://pic-bay.onrender.com) | Image commerce platform with payments | TypeScript · Razorpay |
-| **[Hive](https://github.com/satvikydv/hive)** | Outcome-driven agent development framework | Agents · Automation |
+<!-- | **[Hive](https://github.com/satvikydv/hive)** | Outcome-driven agent development framework | Agents · Automation | -->
 | **[Team Chat](https://github.com/satvikydv/team-chat-application)** | Real-time team messaging application | TypeScript · Full-stack |
 
 ---
