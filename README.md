@@ -24,7 +24,7 @@
 **Ask your screen anything.** A Windows overlay that answers in place and can act for you, with your permission.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/satvikydv/pointr/main/.github/assets/pointr-loop.gif" alt="Pointr demo" width="760" />
+  <img src="assets/pointr-preview.gif" alt="Pointr demo: hold Ctrl + Win, ask a question out loud, and the answer appears on screen pointing at the chart" width="760" />
 </p>
 
 <table>
