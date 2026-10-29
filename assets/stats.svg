@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 132" width="1280" height="132" role="img" aria-label="Highlights: 9-stage invoice pipeline, 360 benchmarked incidents, 7 MCP tools, 9 Pointr versions">
+<g transform="translate(0.0,0)">
+  <rect x="0.5" y="0.5" width="307.0" height="131" rx="12" fill="#0b0d10" stroke="#23282f"/>
+  <text x="24" y="62" font-family="'Inter', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.5" fill="#f4f4f5">9</text>
+  <rect x="24" y="76" width="18" height="2" fill="#60a5fa"/>
+  <text x="24" y="102" font-family="'Inter', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#f4f4f5">stage invoice pipeline</text>
+  <text x="24" y="120" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#8b929c">raw invoice → explained decision</text>
+</g><g transform="translate(324.0,0)">
+  <rect x="0.5" y="0.5" width="307.0" height="131" rx="12" fill="#0b0d10" stroke="#23282f"/>
+  <text x="24" y="62" font-family="'Inter', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.5" fill="#f4f4f5">360</text>
+  <rect x="24" y="76" width="18" height="2" fill="#60a5fa"/>
+  <text x="24" y="102" font-family="'Inter', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#f4f4f5">incidents benchmarked</text>
+  <text x="24" y="120" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#8b929c">Hindsight · off / vector / graph</text>
+</g><g transform="translate(648.0,0)">
+  <rect x="0.5" y="0.5" width="307.0" height="131" rx="12" fill="#0b0d10" stroke="#23282f"/>
+  <text x="24" y="62" font-family="'Inter', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.5" fill="#f4f4f5">7</text>
+  <rect x="24" y="76" width="18" height="2" fill="#60a5fa"/>
+  <text x="24" y="102" font-family="'Inter', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#f4f4f5">MCP tools</text>
+  <text x="24" y="120" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#8b929c">one room, queryable by any agent</text>
+</g><g transform="translate(972.0,0)">
+  <rect x="0.5" y="0.5" width="307.0" height="131" rx="12" fill="#0b0d10" stroke="#23282f"/>
+  <text x="24" y="62" font-family="'Inter', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.5" fill="#f4f4f5">9</text>
+  <rect x="24" y="76" width="18" height="2" fill="#60a5fa"/>
+  <text x="24" y="102" font-family="'Inter', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#f4f4f5">Pointr versions</text>
+  <text x="24" y="120" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#8b929c">Apr → Oct 2026</text>
+</g>
+</svg>

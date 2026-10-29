@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-label="Satvik Yadav, full-stack engineer building AI systems that see, remember, and act">
+<rect width="1280" height="360" rx="16" fill="#0b0d10"/>
+<rect x="0.5" y="0.5" width="1279" height="359" rx="15.5" fill="none" stroke="#23282f"/>
+
+<text x="72" y="84" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="2" fill="#8b929c">PORTFOLIO / 2026</text>
+<text x="70" y="176" font-family="'Inter', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="78" font-weight="700" letter-spacing="-2.5" fill="#f4f4f5">Satvik Yadav</text>
+<text x="72" y="222" font-family="'Inter', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#8b929c">Full-stack engineer building AI systems that</text>
+<text x="72" y="252" font-family="'Inter', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#f4f4f5">see, remember, and act.</text>
+
+<line x1="72" y1="284" x2="140" y2="284" stroke="#60a5fa" stroke-width="2"/>
+<circle cx="76" cy="314" r="4" fill="#60a5fa"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="90" y="319" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#8b929c">open to collaborations and interesting problems</text>
+
+<g>
+  <rect x="790" y="48" width="430" height="264" fill="#101317"/>
+  <line x1="790" y1="92" x2="1220" y2="92" stroke="#23282f" stroke-width="1" stroke-opacity="0.6"/><line x1="790" y1="136" x2="1220" y2="136" stroke="#23282f" stroke-width="1" stroke-opacity="0.6"/><line x1="790" y1="180" x2="1220" y2="180" stroke="#23282f" stroke-width="1" stroke-opacity="0.6"/><line x1="790" y1="224" x2="1220" y2="224" stroke="#23282f" stroke-width="1" stroke-opacity="0.6"/><line x1="790" y1="268" x2="1220" y2="268" stroke="#23282f" stroke-width="1" stroke-opacity="0.6"/><line x1="833" y1="48" x2="833" y2="312" stroke="#23282f" stroke-width="1" stroke-opacity="0.6"/><line x1="876" y1="48" x2="876" y2="312" stroke="#23282f" stroke-width="1" stroke-opacity="0.6"/><line x1="919" y1="48" x2="919" y2="312" stroke="#23282f" stroke-width="1" stroke-opacity="0.6"/><line x1="962" y1="48" x2="962" y2="312" stroke="#23282f" stroke-width="1" stroke-opacity="0.6"/><line x1="1005" y1="48" x2="1005" y2="312" stroke="#23282f" stroke-width="1" stroke-opacity="0.6"/><line x1="1048" y1="48" x2="1048" y2="312" stroke="#23282f" stroke-width="1" stroke-opacity="0.6"/><line x1="1091" y1="48" x2="1091" y2="312" stroke="#23282f" stroke-width="1" stroke-opacity="0.6"/><line x1="1134" y1="48" x2="1134" y2="312" stroke="#23282f" stroke-width="1" stroke-opacity="0.6"/><line x1="1177" y1="48" x2="1177" y2="312" stroke="#23282f" stroke-width="1" stroke-opacity="0.6"/>
+  <path d="M790,64 L790,48 L806,48" fill="none" stroke="#8b929c" stroke-width="1.5"/><path d="M1220,64 L1220,48 L1204,48" fill="none" stroke="#8b929c" stroke-width="1.5"/><path d="M790,296 L790,312 L806,312" fill="none" stroke="#8b929c" stroke-width="1.5"/><path d="M1220,296 L1220,312 L1204,312" fill="none" stroke="#8b929c" stroke-width="1.5"/>
+  <text x="804" y="300" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1.5" fill="#4b525c">SCENE · LIVE</text>
+  <text x="1206" y="300" text-anchor="end" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1.5" fill="#4b525c">DETECTING</text>
+  <g opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.30;0.34;1" dur="9.0s" begin="0.0s" repeatCount="indefinite"/>
+  <rect x="826" y="92" width="168" height="92" fill="#60a5fa" fill-opacity="0.06" stroke="#60a5fa" stroke-width="1.25"/>
+  <rect x="826" y="72" width="62" height="20" fill="#60a5fa"/>
+  <text x="834" y="86" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="600" fill="#0b0d10">pointr</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.30;0.34;1" dur="9.0s" begin="3.0s" repeatCount="indefinite"/>
+  <rect x="1020" y="128" width="156" height="120" fill="#60a5fa" fill-opacity="0.06" stroke="#60a5fa" stroke-width="1.25"/>
+  <rect x="1020" y="108" width="92" height="20" fill="#60a5fa"/>
+  <text x="1028" y="122" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="600" fill="#0b0d10">reality-os</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.30;0.34;1" dur="9.0s" begin="6.0s" repeatCount="indefinite"/>
+  <rect x="868" y="214" width="196" height="68" fill="#60a5fa" fill-opacity="0.06" stroke="#60a5fa" stroke-width="1.25"/>
+  <rect x="868" y="194" width="84" height="20" fill="#60a5fa"/>
+  <text x="876" y="208" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="600" fill="#0b0d10">hindsight</text>
+</g>
+  <line x1="790" y1="48" x2="1220" y2="48" stroke="#60a5fa" stroke-width="1" stroke-opacity="0.55">
+    <animate attributeName="y1" values="48;312" dur="6.0s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="48;312" dur="6.0s" repeatCount="indefinite"/>
+  </line>
+</g>
+</svg>
